@@ -1,0 +1,31 @@
+#webapp-calculator
+{
+	font-size: 20px;
+}
+
+#calculator-display
+{
+	float: right;
+}
+
+#calculator-operation-store
+{
+	float: left;
+	color: #aaaaaa;
+}
+
+#calculator-display button
+{
+	text-align: center;
+}
+
+#webapp-calculator p.text-center button
+{
+	margin: 0 5px 0 5px;
+}
+
+#calculator-store-display
+{
+	color: #aaaaaa;
+	float: none;
+}
